@@ -1,0 +1,1 @@
+alert('I am an alert') // doesn't work in Node
