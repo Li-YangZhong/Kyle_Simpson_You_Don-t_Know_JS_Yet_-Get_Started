@@ -14,3 +14,5 @@ var otherHomework = {
 
 assignment.call(otherHomework);
 // Kyle says to study Math
+
+/*A third way to invoke a function is with the call(..) method, which takes an object (otherHomework here) to use for setting the this reference for the function call. The property reference this.topic resolves to "Math". */
